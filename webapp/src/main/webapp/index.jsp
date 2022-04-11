@@ -8,4 +8,4 @@
 
 <h1> Thank You Lord for everything! </h1>
 
-<h1> This is just a test using Ansible playbook!
+<h1> This is a test using Ansible playbook!
